@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">LINTA_06</span></h1>
+<h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">LintaImran</span></h1>
 
 <p align="center">
   🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Aspiring Ethical Hacker</b> &nbsp;|&nbsp; ⚙️ <b>IT & Programming Enthusiast</b>
@@ -9,27 +9,27 @@
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security**. I'm passionate about **cyber defense, ethical hacking, programming, and solving real-world security challenges**.
+I'm currently pursuing my **Bachelor’s in Cyber Security**. I'm passionate about **cyber defense, ethical hacking, programming, and exploring digital threats and system security**.
 
-With strong interest in **computer science, IT, and system security**, I focus on understanding **vulnerabilities, digital forensics, and secure system development**.
+With a strong interest in **computer science, IT, and secure systems**, I focus on understanding **vulnerabilities, digital forensics, and building protected environments using programming and logic**.
 
 ---
 
 ### 🚀 Currently Learning
 
-- 🔐 Ethical Hacking & Cyber Defense  
+- 🔐 Ethical Hacking & Network Security  
 - 🧩 Data Structures & Algorithms  
 - 💻 Programming in **C++**, **Java**, and **Python**  
-- 🐧 Linux (Kali Linux, Ubuntu) & Network Security  
+- 🐧 Linux (Kali Linux, Ubuntu) & System Administration  
 
 ---
 
 ### 💼 Experience & Interests
 
-- 🧑‍💻 Interested in Penetration Testing & System Security  
-- 💡 Learning how to combine **programming + cybersecurity** to build secure applications  
-- 🎨 Hobby: Creating digital posters & graphics in **Canva**  
-- 🧑‍🤝‍🧑 Teamwork & leadership skills from academic/group projects  
+- 🧑‍💻 Interested in Penetration Testing & Secure Software Development  
+- 🧠 Learning how coding and cybersecurity work together to protect systems  
+- 🎨 Designs graphics, posters, and digital content using **Canva**  
+- 🤝 Teamwork, creativity, and problem-solving through academic and group tasks  
 
 ---
 
@@ -42,13 +42,6 @@ With strong interest in **computer science, IT, and system security**, I focus o
   <img src="https://skillicons.dev/icons?i=visualstudio,html,css,kali,windows&perline=5" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" />
 </p>
-
----
-
-### 🧩 Featured Project
-
-#### 🔹 **AICS DevTech (Fictional Project)**
-A creative concept for a **software & cybersecurity-focused development company** — built for academic purposes to combine **innovation, teamwork, and secure coding practices**.
 
 ---
 
@@ -74,4 +67,5 @@ A creative concept for a **software & cybersecurity-focused development company*
 
 ---
 
-<h3 align="center"><i>“In cybersecurity and life, curiosity isn’t just a trait — it’s your strongest shield.” 🔒</i></h3>
+<h3 align="center"><i>“Secure your mind, just like your system — stay aware, stay protected.” 🔒</i></h3>
+
