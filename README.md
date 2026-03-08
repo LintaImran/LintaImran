@@ -1,3 +1,8 @@
+<!-- BANNER -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x200/ff5555/ffffff?text=LintaImran+Cybersecurity+Portfolio" alt="Banner" />
+</p>
+
 <!-- PROFILE HEADER -->
 <h1 align="center">🌙 Hey there, I'm <span style="color:#ff5555;">LintaImran</span></h1>
 
