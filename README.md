@@ -61,8 +61,7 @@ I enjoy **analyzing vulnerabilities, performing penetration tests, exploring Lin
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <!-- Replace with your uploaded screenshot -->
-  <img src="assets/github-activity.png" width="90%" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lintaimran&theme=react-dark&area=true&hide_border=true" width="90%" alt="GitHub Contributions Graph" />
 </p>
 
 ---
