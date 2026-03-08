@@ -58,6 +58,14 @@ I enjoy **analyzing vulnerabilities, performing penetration tests, exploring Lin
 
 ---
 
+### 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Lintaimran&theme=react-dark&hide_border=true" width="90%" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
