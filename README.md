@@ -1,17 +1,20 @@
-<!-- Profile Header -->
-<h1 align="center">🌙 Hey there, I'm <span style="color:#58a6ff;">LintaImran</span></h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">🌙 Hey there, I'm <span style="color:#ff5555;">LintaImran</span></h1>
 
 <p align="center">
   🎓 <b>BS Cyber Security Student</b> &nbsp;|&nbsp; 💻 <b>Aspiring Ethical Hacker</b> &nbsp;|&nbsp; ⚙️ <b>IT & Programming Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=ff5555&width=600&lines=Hacking+with+Ethics.;Cybersecurity+Enthusiast.;Always+Learning+and+Coding." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-I'm currently pursuing my **Bachelor’s in Cyber Security**. I'm passionate about **cyber defense, ethical hacking, programming, and exploring digital threats and system security**.
-
-With a strong interest in **computer science, IT, and secure systems**, I focus on understanding **vulnerabilities, digital forensics, and building protected environments using programming and logic**.
+I'm a **Cyber Security student** passionate about **ethical hacking, programming, and digital defense**.  
+I enjoy **analyzing vulnerabilities, performing penetration tests, exploring Linux systems, and building secure environments** using logic and code.
 
 ---
 
@@ -26,20 +29,17 @@ With a strong interest in **computer science, IT, and secure systems**, I focus 
 
 ### 💼 Experience & Interests
 
-- 🧑‍💻 Interested in Penetration Testing & Secure Software Development  
-- 🧠 Learning how coding and cybersecurity work together to protect systems  
-- 🎨 Designs graphics, posters, and digital content using **Canva**  
-- 🤝 Teamwork, creativity, and problem-solving through academic and group tasks  
+- 🧑‍💻 Penetration Testing & Secure Software Development  
+- 🧠 Cybersecurity & coding integration for system protection  
+- 🎨 Designing graphics, posters, and digital content with **Canva**  
+- 🤝 Teamwork, problem-solving, and creative collaboration  
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode&perline=6" height="42" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=visualstudio,html,css,kali,windows&perline=5" height="42" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,ubuntu,git,vscode,visualstudio,html,css,kali,windows&perline=6" height="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42" alt="Canva" />
 </p>
 
@@ -48,12 +48,12 @@ With a strong interest in **computer science, IT, and secure systems**, I focus 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lintaimran&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lintaimran&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lintaimran&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lintaimran&theme=radical&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintaimran&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lintaimran&layout=compact&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
@@ -61,11 +61,10 @@ With a strong interest in **computer science, IT, and secure systems**, I focus 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:lintaimran010@gmail.com"><img src="https://img.shields.io/badge/Email-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:lintaimran010@gmail.com"><img src="https://img.shields.io/badge/Email-ff5555?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Lintaimran"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <h3 align="center"><i>“Secure your mind, just like your system — stay aware, stay protected.” 🔒</i></h3>
-
